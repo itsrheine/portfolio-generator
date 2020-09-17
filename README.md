@@ -12,7 +12,7 @@ https://github.com/itsrheine/portfolio-generator
 
 
 ## Screenshot
-![Screenshot](assc/sc2.JPG)
+![Screenshot](sc/sc2.JPG)
 ![Screenshot](sc/sc1.JPG)
 
 
